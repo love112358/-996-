@@ -1,9 +1,12 @@
 # -996-
 # 拒绝加班，拒绝无偿加班，拒绝996，拒绝调休，维护打工人权益，从你我做起
 时间很快，从大学毕业到现在已经工作了几年了，面对镜子，发现自己老了很多，工作压力大，工作疲惫，每天工作12个小时，然后做一个小时的地铁回家，就想直接休息，感觉自己这几年变了很多，没有年轻时的朝气，没有自己阅读学习的时间，没有自己的社交，没有自己的兴趣爱好，到了周末，只想好好的睡一觉。然后周一又开始工作，这样日复一日度过到现在。作为一名打工人我知道，被资本压榨，无偿加班，严重侵犯了我们的理由，但是想改变这种环境，比登天还难，另外，由于一些特殊情况，大多数人，维护自身权益的勇气都没有。
+
 ![image](https://github.com/user-attachments/assets/b2bea071-5087-4fad-b1ab-ca1d8e42adfe)
 
+
 ![image](https://github.com/user-attachments/assets/e60ea80b-8091-4519-9fa7-506bbadd152d)
+
 【中文】时光如水，岁月如梭。转眼间，大学毕业已是几年前的往事。每当我站在镜子前，总会被那张疲惫不堪的脸庞所震惊。曾经那个意气风发、充满朝气的年轻人，如今已被无情的工作磨平了棱角。
 每天，我像一台精密的机器，按部就班地重复着相同的routine。12小时的工作，1小时的通勤，剩下的时间只够我勉强维持生理需求。曾经热爱的阅读、学习、社交，甚至是简单的兴趣爱好，都已经成为了奢侈品。周末本应是放松身心的时刻，却只剩下了补觉的欲望。这样的生活，日复一日，年复一年，仿佛永无止境。
 作为一名打工人，我深深感受到被资本压榨的痛苦。无偿加班，无效加班，严重侵犯了我们的合法权益。然而，改变这种环境似乎比登天还难。在当前的社会环境下，大多数人都选择了沉默，因为他们害怕失去仅有的生存保障。
@@ -19,6 +22,7 @@
 所以，亲爱的同胞们，让我们擦亮双眼，挺直腰杆。让我们携起手来，共同迈向那个充满希望的未来。我们的力量来自团结，我们的勇气来自正义，我们的信念来自对美好生活的向往。
 记住，我们不是一个人在战斗。我们是千千万万打工人中的一员，我们的背后站着无数和我们有着相同梦想的人。让我们的声音汇聚成滚滚春雷，让我们的行动凝聚成不可阻挡的洪流。
 黎明即将到来，新的一天正在向我们招手。让我们以昂扬的斗志，坚定的信念，迎接这个崭新的开始。我们相信，只要我们团结一心，就没有什么困难是我们无法战胜的。让我们一起，为了我们共同的未来，为了我们应得的权益，勇敢地向前迈进！
+
 【English】Time flows like water, years pass like a shuttle. In the blink of an eye, college graduation has become a memory of years past. Whenever I stand in front of the mirror, I'm always shocked by the exhausted face staring back at me. The once spirited and energetic young person has now had their edges worn smooth by the relentless grind of work.
 Every day, I operate like a precision machine, methodically repeating the same routine. Twelve hours of work, one hour of commuting, and the remaining time barely enough to maintain basic physiological needs. Reading, learning, socializing, and even simple hobbies that I once loved have now become luxuries. Weekends, which should be a time for relaxation, are now consumed by the desire to catch up on sleep. This life, repeating day after day, year after year, seems endless.
 As a worker, I deeply feel the pain of being exploited by capital. Unpaid overtime and ineffective overtime seriously violate our legal rights. However, changing this environment seems more difficult than climbing to the sky. In the current social environment, most people choose to remain silent because they fear losing their only means of survival.
@@ -34,6 +38,7 @@ This is not an easy battle, but it is a battle worth fighting for. Because we ar
 So, dear comrades, let us open our eyes and stand tall. Let us join hands and march towards that hopeful future together. Our strength comes from unity, our courage comes from justice, and our belief comes from the yearning for a better life.
 Remember, we are not fighting alone. We are one of millions of workers, with countless people who share the same dream standing behind us. Let our voices gather into rolling spring thunder, let our actions converge into an unstoppable torrent.
 Dawn is about to break, a new day is beckoning us. Let us meet this brand new beginning with high spirits and firm beliefs. We believe that as long as we unite, there are no difficulties we cannot overcome. Let us move forward bravely together, for our common future, for the rights we deserve!
+
 【Russian language】
 Время течет как вода, годы проходят как ткацкий челнок. В мгновение ока выпуск из университета стал делом прошлого. Каждый раз, когда я стою перед зеркалом, меня шокирует это измученное лицо. Тот энергичный и полный жизни молодой человек теперь стерт безжалостной работой.
 Каждый день я, как точный механизм, методично повторяю одну и ту же рутину. 12 часов работы, 1 час на дорогу, оставшегося времени едва хватает на удовлетворение физиологических потребностей. Когда-то любимое чтение, учеба, общение и даже простые хобби стали роскошью. Выходные, которые должны быть временем для отдыха, теперь сводятся лишь к желанию наверстать сон. Такая жизнь, день за днем, год за годом, кажется бесконечной.
@@ -50,6 +55,7 @@ Dawn is about to break, a new day is beckoning us. Let us meet this brand new be
 Итак, дорогие товарищи, давайте протрем глаза и выпрямим спины. Давайте возьмемся за руки и вместе шагнем в то будущее, полное надежд. Наша сила исходит из единства, наша храбрость - из справедливости, наша вера - из стремления к лучшей жизни.
 Помните, мы не одни в этой борьбе. Мы - одни из миллионов рабочих, за нами стоят бесчисленные люди с такими же мечтами, как у нас. Пусть наши голоса сольются в раскаты весеннего грома, пусть наши действия сольются в неудержимый поток.
 Рассвет скоро наступит, новый день машет нам рукой. Давайте встретим это новое начало с высоким боевым духом и твердой верой. Мы верим, что пока мы едины, нет трудностей, которые мы не можем преодолеть. Давайте вместе смело шагнем вперед, ради нашего общего будущего, ради прав, которые мы заслуживаем!
+
 【日本語】
 時は水のごとく流れ、歳月は梭のごとく過ぎ去る。あっという間に、大学卒業は数年前の出来事となった。鏡の前に立つたびに、疲れ果てた顔に驚かされる。かつての意気揚々とした、活力に満ちた若者は、今や無情な仕事によって角が取れてしまった。
 毎日、私は精密な機械のように、同じルーティンを繰り返している。12時間の仕事、1時間の通勤、残りの時間は生理的欲求を満たすのがやっとだ。かつて愛していた読書、学習、社交、さらには単純な趣味さえも贅沢品となってしまった。週末は心身をリラックスさせる時間のはずが、今は寝不足を解消したいという欲求しか残っていない。この生活は日々繰り返され、年々続き、まるで終わりがないかのようだ。
